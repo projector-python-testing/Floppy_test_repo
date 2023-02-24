@@ -5,7 +5,6 @@
 
 The calculator is an online project for calculating using simple iperators
 
-
 ## How to use it
 
 The main functions supported by the calculator:
