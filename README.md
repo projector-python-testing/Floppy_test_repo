@@ -1,9 +1,9 @@
 # Simple Calculator
-
+The math calculator
 
 ## Introduction
 
-The calculator is an online project for calculating using simple iperators
+The calculator is an online project for calculating using simple operators
 
 ## How to use it
 
