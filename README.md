@@ -1,9 +1,11 @@
 # Simple Calculator
+The math calculator
 
 
 ## Introduction
 
-The calculator is an online project for calculating using simple iperators
+The calculator is an online project for calculating using simple operators
+
 
 ## How to use it
 
@@ -14,7 +16,7 @@ The main functions supported by the calculator:
 - multiplication of numbers
 - division of numbers
 
-All the information are stored on python and the system only uses python libraries making really easy to install and update.
+All the information are stored on Python and the system only uses python libraries making really easy to install and update.
 
 
 ## Files/Folders
